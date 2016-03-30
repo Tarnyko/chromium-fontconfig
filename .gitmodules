@@ -1,0 +1,4 @@
+[submodule "third_party/fontconfig/src"]
+	path = third_party/fontconfig/src
+	url = https://chromium.googlesource.com/external/fontconfig.git
+	branch = f16c3118e25546c1b749f9823c51827a60aeb5c1
